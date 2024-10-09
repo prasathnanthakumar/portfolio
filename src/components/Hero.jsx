@@ -1,5 +1,5 @@
 import React from 'react';
-import HeroImage from "../assets/HeroImage.jpg";
+import HeroImage from "../assets/heroImage.jpg";
 
 const Hero = () => {
   return (
@@ -24,7 +24,7 @@ const Hero = () => {
         </button>
         <button
           className="bg-gradient-to-r from-pink-500 to-yellow-500 text-white block transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full">
-          <a href="https://drive.google.com/file/d/1NHybnERDgLpM6pc8_xHys7XtP3z2XD9h/view?usp=sharing">Resume</a>
+          <a href="https://drive.google.com/file/d/1G9CS5qG1JEK2zAdX171-PFz2BdpoWrd0/view?usp=sharing">Resume</a>
         </button>
       </div>
 
