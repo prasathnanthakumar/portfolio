@@ -15,51 +15,49 @@ const About = () => {
                             modern and responsive web applications. With a strong foundation
                             in frontend technologies. I strive to create seamless and efficient user experiences.
                         </p>
-                        <div className='space-y-4'> 
+
+                        <div className='space-y-4 px-4'>
                             <div className='flex items-center'>
-                                <label htmlFor="htmlandcss" className='w-2/12'>HTML</label>
+                                <label htmlFor="html" className='w-3/12 text-xs sm:text-base'>HTML</label>
                                 <div className='grow bg-gray-800 rounded-full h-2.5'>
-                                    <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full
-                                    transform transition-transform duration-300 hover:scale-105 w-10/12'>
+                                    <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-10/12'>
                                     </div>
                                 </div>
                             </div>
 
                             <div className='flex items-center'>
-                                <label htmlFor="htmlandcss" className='w-2/12'>CSS</label>
+                                <label htmlFor="css" className='w-3/12 text-xs sm:text-base'>CSS</label>
                                 <div className='grow bg-gray-800 rounded-full h-2.5'>
-                                    <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full
-                                    transform transition-transform duration-300 hover:scale-105 w-10/12'>
+                                    <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-10/12'>
                                     </div>
                                 </div>
                             </div>
 
                             <div className='flex items-center'>
-                                <label htmlFor="htmlandcss" className='w-2/12'>Javascript</label>
+                                <label htmlFor="javascript" className='w-3/12 text-xs sm:text-base'>Javascript</label>
                                 <div className='grow bg-gray-800 rounded-full h-2.5'>
-                                    <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full
-                                    transform transition-transform duration-300 hover:scale-105 w-9/12'>
+                                    <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-9/12'>
                                     </div>
                                 </div>
                             </div>
 
                             <div className='flex items-center'>
-                                <label htmlFor="htmlandcss" className='w-2/12'>ReactJS</label>
-                                <div className='grow bg-gray-800 rounded-full h-2.5 '>
-                                    <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full
-                                    transform transition-transform duration-300 hover:scale-105 w-9/12'>
+                                <label htmlFor="reactjs" className='w-3/12 text-xs sm:text-base'>ReactJS</label>
+                                <div className='grow bg-gray-800 rounded-full h-2.5'>
+                                    <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-9/12'>
                                     </div>
                                 </div>
                             </div>
+
                             <div className='flex items-center'>
-                                <label htmlFor="htmlandcss" className='w-2/12'>MySQL</label>
-                                <div className='grow bg-gray-800 rounded-full h-2.5 '>
-                                    <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full
-                                    transform transition-transform duration-300 hover:scale-105 w-10/12'>
+                                <label htmlFor="mysql" className='w-3/12 text-xs sm:text-base'>MySQL</label>
+                                <div className='grow bg-gray-800 rounded-full h-2.5'>
+                                    <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-10/12'>
                                     </div>
                                 </div>
                             </div>
                         </div>
+
 
                         <div className='mt-3 flex justify-between text-center'>
                             <div>
