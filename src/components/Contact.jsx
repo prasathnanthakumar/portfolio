@@ -47,8 +47,10 @@ const Contact = () => {
                                 focus:border-green-400'
                                 rows="5" placeholder='Enter Your Name'/>
                             </div>
-                            <button className='bg-gradient-to-r from-green-400 to-blue-500 text-while hidden md:inline 
-                            transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>Contact Me</button>
+                            <button className='bg-gradient-to-r from-green-400 to-blue-500 text-white transform transition-transform 
+                            duration-300 hover:scale-105 px-4 py-2 rounded-full'>
+                                Submit
+                            </button>
                         </form>
                     </div>
                 </div>
